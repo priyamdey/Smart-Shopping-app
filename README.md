@@ -21,6 +21,6 @@ Steps:
 ------------------------
 3D Object recogniser
 ------------------------
-For 3D objects, we need to scan the model 360deg on a marker reference provided by Vuforia so that the scale and 3D model is accurately captured. The SDK also provides the quality of scan and lets you know if it needs to be rescanned. Rest of the process is very similar to image recognition.
+For 3D objects, we need to scan the object full 360deg by placing it on a marker reference provided by Vuforia so that the object can be detected accurately from any viewing angle. The SDK also lets you know the quality of the scan and if it needs to be rescanned. Rest of the process is very similar to image recognition.
 
 For detection of a 3D object through the ARObjDemo.apk file (another app), you need to have a pre-scanned 3D object with you which is not possible :(. So won't be able to showcase this.
