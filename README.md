@@ -4,7 +4,7 @@ This Augmented Reality application was built by me for TCS to showcase contactle
 
 It has been built using Untiy 3D engine + Vuforia SDK.
 
-Unity enables you to build an android app and Vuforia SDK does the heavy lifting with Image and 3D Object recognition. You can read more about it here: https://library.vuforia.com/getting-started/overview.html
+Unity enables you to build an android app and it integrates with Vuforia SDK which does the heavy lifting with Image and 3D Object recognition capabilities for the app. You can read more about it here: https://library.vuforia.com/getting-started/overview.html
 
 All the apps mentioned below can be downloaded from this drive link: https://drive.google.com/drive/folders/1c0Ox4Ag_rkQGjc_RjZRiEJDhMQ9dEHMR?usp=sharing
 
