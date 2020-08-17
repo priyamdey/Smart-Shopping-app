@@ -13,6 +13,8 @@ Image recogniser
 ------------------------
 For images, we need to train the model by uploading the image to Vuforia developer portal. It will extract relevant features (like SIFT) and train a binary classifier to detect the image. The trained model can be downloaded onto the system and packaged along with the unity app for offline detection.
 
+Note: Below steps are applicable for Android phone only.
+
 Steps:
 1. The model was trained to recognise the image  in "Road1.tex.jpg" and overlay it with a 3D object (easily available in Unity store).
 2. Download and install the ARImgDemo.apk file. Open the app. Click on "Let's Start".
