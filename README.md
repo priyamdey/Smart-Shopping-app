@@ -4,7 +4,7 @@ This Augmented Reality application was built by me for TCS to showcase contactle
 
 It has been built using Untiy 3D engine + Vuforia SDK.
 
-Vuforia SDK does the heavy lifting with Image recognition, 3D Object recognition. You can read more about it here: https://library.vuforia.com/getting-started/overview.html
+Vuforia SDK does the heavy lifting with Image and 3D Object recognition. You can read more about it here: https://library.vuforia.com/getting-started/overview.html
 
 ------------------------
 Image recogniser
