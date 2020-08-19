@@ -1,4 +1,4 @@
-# AR-App
+# Smart Shopping App
 
 This Augmented Reality application was built by me for TCS to showcase contactless shopping experience for customers.
 
