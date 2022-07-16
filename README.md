@@ -1,6 +1,6 @@
 # Smart Shopping App
 
-This Augmented Reality application was built by me for TCS to showcase contactless shopping experience for customers.
+This Augmented Reality application was built to showcase contactless shopping experience for customers.
 
 It has been built using Untiy 3D engine + Vuforia SDK.
 
